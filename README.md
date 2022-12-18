@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rakhi04
-- 👀 I’m interested in programming, i lyk problem solving, meditating, exercise, badminton, and i just love food(indian food*)
-- 🌱 I’m currently learning DSA, using C++, and React
+- 👋 Hi, I’m Rakhi Sehrawat, from Bhopal,India.
+- 👀 I’m interested in programming, I like problem solving, meditating, exercise, badminton, and i just love food(indian food*).
+- 🌱 I’m currently learning DSA, using C++, and React.
 - 💞️ I’m looking for a Software Develpoment Engineer internship, as am really excited to gain some practical knowledge, and passionate to work on same cool project.
 
 <!---
